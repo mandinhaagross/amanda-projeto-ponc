@@ -1,1 +1,1 @@
-# amanda-projeto-ponc
+# amanda-projeto-pong
